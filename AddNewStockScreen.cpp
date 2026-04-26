@@ -1,0 +1,1 @@
+#include "AddNewStockScreen.h"

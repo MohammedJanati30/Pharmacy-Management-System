@@ -1,0 +1,33 @@
+ Ali#//#070101#//#Paracetamol 500mg#//#PA#//#530#//#All#//#12.000000#//#PA001
+ Sara#//#071202#//#Ibuprofen 200mg#//#IB#//#407#//#Adult#//#8.500000#//#IB001
+ Youssef#//#072303#//#Amoxicillin 250mg#//#AM#//#250#//#Adult#//#30.000000#//#AM001
+ Fatima#//#073404#//#Vitamin C 1000mg#//#VC#//#1000#//#All#//#5.000000#//#VC001
+ Omar#//#074505#//#Aspirin 300mg#//#AS#//#300#//#Adult#//#6.000000#//#AS001
+ Hassan#//#075606#//#Azithromycin 500mg#//#AZ#//#150#//#Adult#//#22.000000#//#AZ001
+ Khadija#//#076707#//#Vitamin D 2000IU#//#VD#//#2000#//#All#//#9.000000#//#VD001
+ Mehdi#//#077808#//#Cough Syrup#//#CS#//#150#//#Child#//#4.500000#//#CS001
+ Mohammed#//#062213#//#Vitamin B Complex#//#VB#//#227#//#All#//#100.000000#//#VB001
+ Imane#//#063333#//#Magnesium 500mg#//#MG#//#3#//#Baby#//#100.000000#//#MG001
+ Rachid#//#070902#//#Cetirizine 10mg#//#CT#//#120#//#Adult#//#7.500000#//#CT001
+ Amina#//#071903#//#Metformin 500mg#//#MF#//#600#//#Adult#//#15.000000#//#MF001
+ Yasmine#//#072904#//#Omeprazole 20mg#//#OP#//#300#//#Adult#//#18.000000#//#OP001
+ Khalid#//#073905#//#Salbutamol Inhaler#//#SB#//#80#//#Adult#//#25.000000#//#SB001
+ Salma#//#074906#//#Diclofenac 50mg#//#DF#//#200#//#Adult#//#10.000000#//#DF001
+ Hamza#//#075907#//#Loratadine 10mg#//#LR#//#90#//#Adult#//#6.000000#//#LR001
+ Nada#//#076908#//#Folic Acid 5mg#//#FA#//#400#//#All#//#3.000000#//#FA001
+ Othman#//#077909#//#Insulin Pen#//#IN#//#50#//#Adult#//#120.000000#//#IN001
+ Zineb#//#078010#//#Calcium 500mg#//#CA#//#500#//#All#//#9.500000#//#CA001
+ Reda#//#079111#//#Antibiotic Cream#//#AC#//#300#//#All#//#14.000000#//#AC001
+ Younes#//#080212#//#Vitamin K#//#VK#//#220#//#All#//#11.000000#//#VK001
+ Sanae#//#081313#//#Prednisolone 20mg#//#PR#//#140#//#Adult#//#20.000000#//#PR001
+ Bilal#//#082414#//#Paracetamol 1000mg#//#PA#//#410#//#Adult#//#13.000000#//#PA002
+ Hiba#//#083515#//#Antacid Tablets#//#AT#//#500#//#All#//#5.500000#//#AT001
+ Anas#//#084616#//#Cough Drops#//#CD#//#320#//#All#//#4.000000#//#CD001
+ Ilyas#//#085717#//#Iron Tablets#//#IR#//#260#//#Adult#//#8.000000#//#IR001
+ Meryem#//#086818#//#Eye Drops#//#ED#//#180#//#All#//#12.000000#//#ED001
+ Zakaria#//#087919#//#Skin Ointment#//#SO#//#150#//#All#//#16.000000#//#SO001
+ Asmae#//#088020#//#Vitamin E#//#VE#//#340#//#All#//#10.000000#//#VE001
+ Taha#//#089121#//#Pain Relief Gel#//#PG#//#210#//#Adult#//#9.000000#//#PG001
+ Nour#//#090222#//#Antibiotic Capsules#//#AN#//#275#//#Adult#//#22.000000#//#AN001
+ Oussama#//#091323#//#Allergy Syrup#//#AL#//#190#//#Child#//#7.000000#//#AL001
+ Lina#//#092424#//#Multivitamin#//#MV#//#799#//#All#//#15.000000#//#MV001
