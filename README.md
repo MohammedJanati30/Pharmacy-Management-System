@@ -4,42 +4,50 @@
 
  WorkFlow: 
  
-Pharmacy-Management-System/
-│
-├── main.cpp
-├── core/
-│   ├── clsPharmacy
-│   ├── clsMedicinesManagement
-│   ├── clsStockManagement
-│
-├── models/
-│   ├── clsMedical
-│
-├── screens/
-│   ├── clsScreen
-│   ├── clsShowMainMenuPharmacy
-│   ├── clsMedicalListScreen
-│   ├── AddNewStockScreen
-│   ├── SearchPharmacyMedical
-│
-├── operations/
-│   ├── clsSellMedicine
-│   ├── clsDeleteMedical
-│   ├── clsUpdateMedical
-│   ├── clsAdjustStock
-│   ├── clsIncreaseQuantity
-│
-├── utils/
-│   ├── clsString
-│   ├── clsDate
-│   ├── clsInputValidate
-│
-├── data/
-│   └── PharmacyFile.txt
-│
-└── .gitignore
+ 1️⃣ main.cpp → Entry point (starts the program)
 
+2️⃣ core/
+   → Controls the system logic
+   - clsPharmacy → main controller
+   - clsMedicinesManagement → CRUD operations
+   - clsStockManagement → stock handling
+
+3️⃣ models/
+   → Data representation
+   - clsMedical → medicine object (name, price, quantity)
+
+4️⃣ screens/
+   → User Interface (console)
+   - clsScreen → base screen
+   - clsShowMainMenuPharmacy → main menu
+   - clsMedicalListScreen → display medicines
+   - AddNewStockScreen → add new medicine
+   - SearchPharmacyMedical → search feature
+
+5️⃣ operations/
+   → Business actions
+   - clsSellMedicine → selling process
+   - clsDeleteMedical → delete medicine
+   - clsUpdateMedical → update info
+   - clsAdjustStock → adjust stock
+   - clsIncreaseQuantity → increase quantity
+
+6️⃣ utils/
+   → Helper tools (reusable)
+   - clsString → string functions
+   - clsDate → date handling
+   - clsInputValidate → input validation
+
+7️⃣ data/
+   → Data storage
+   - PharmacyFile.txt → save/load data
+
+8️⃣ .gitignore
+   → Ignore unnecessary files (.vs, bin, obj)
+
+   
                                     🧠 Classes Summary
+                                    
                                     
 🔹 Core
 clsPharmacy → main controller (starts system)
@@ -88,12 +96,12 @@ UI
 utils
 operations
 
-👉 easy to maintain
+👉 easyy to maintain
 
 🎯 Conclusion
 
-This project is a modular C++ console application that demonstrates:
+This project is a modular C++ console application that demonstrate:
 
-strong OOP design
+strong OOP desiign
 separation of concerns
 reusable components
